@@ -12,6 +12,7 @@ Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunid
 - ⚡ Dato curioso: Disfruto mucho del Hockey y el aire libre.
 -->
 
+
 🛠 💻 Habilidades Técnicas:
 
 ### Frontend  
