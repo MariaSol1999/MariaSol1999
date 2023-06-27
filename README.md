@@ -1,7 +1,6 @@
 ### Bienvenido 👋
 
-<!-- Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunidades laborales como Junior Full-Stack Developer.
-
+Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunidades laborales como Junior Full-Stack Developer. -->
 
 - 🔭 Actualmente finalicé mis estudios en el bootcamp de #SOYHENRY 💛
 - 🌱 Actualmente estoy aprendiendo TypeScript y React Native.
