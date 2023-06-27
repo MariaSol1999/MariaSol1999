@@ -14,4 +14,18 @@ Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunid
 
 🛠 💻  Habilidades técnicas:
 
-JavaScript  React  Node.js  HTML  CSS  Git  GitHub  Visual Studio Code HTML Tailwind Redux Redux Toolkit Express Sequelize PostgreSQL
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fab fa-react"></i> React
+- <i class="fab fa-node-js"></i> Node.js
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3-alt"></i> CSS
+- <i class="fab fa-git"></i> Git
+- <i class="fab fa-github"></i> GitHub
+- <i class="fas fa-code"></i> Visual Studio Code
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-tailwind"></i> Tailwind
+- <i class="fab fa-react"></i> Redux
+- <i class="fas fa-toolbox"></i> Redux Toolkit
+- <i class="fab fa-node-js"></i> Express
+- <i class="fas fa-database"></i> Sequelize
+- <i class="fas fa-database"></i> PostgreSQL
