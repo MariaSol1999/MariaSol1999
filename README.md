@@ -13,4 +13,32 @@ Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunid
 -->
 
 🛠 💻  Habilidades técnicas:
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)  ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png) ![Redux Toolkit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCqGMg0NpuUle6g5Co1qYGTEgtPl2o9PKbIdBnM5w2IcYT2hZbHj3lkojArVts00P9SQ&usqp=CAU) ![Express](https://img.icons8.com/color/48/000000/express.png) ![Sequelize](https://img.icons8.com/color/48/000000/postgreesql.png) ![Tailwind](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqqNMyaMm9JDFNn3eVGBCB0AZt9ShK0HVcEOIuUXwn2-gp4g33I2zCQGBDhR1OlS2YzTw&usqp=CAU)
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
