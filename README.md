@@ -6,7 +6,7 @@ Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunid
 - 🌱 Actualmente estoy aprendiendo TypeScript y React Native.
 - ✍️ Soy responsable, dedicada, sociable, con pensamiento analitico, de aprendizaje continuo y tenaz. Disfruto del trabajo en equipo y tengo habilidades de liderazgo, toma de decisiones y comunicación asertiva. Cuento con una buena gestión del tiempo y siempre con ganas de superarme día a día.
 - 💬 Cuento con un nivel B2 de inglés certificado por la Universidad de Cambridge.
-- 😄 Adjunto mi cv **[RESUME](https://docs.google.com/document/d/1XB1j4kzNSfUZ_b7dxSzT6Wkj6pUhfu4aLAGV6RESJ60/edit?usp=sharing)**
+- 😄 Adjunto mi cv **[RESUME](https://docs.google.com/document/d/1gBCwAf3AVRbN30IpyXmwmj-GTxXMvwc8t9euFeyV29M/edit?usp=sharing)**
 - 📫 Cómo contactarme? A través de mariasolcomba@gmail.com, suelo contestar en la mayor brevedad posible.
 - LinkedIn: [Maria Sol Comba Maiztegui](https://www.linkedin.com/in/maria-sol-comba-maiztegui-a55760261/)
 - ⚡ Dato curioso: Disfruto mucho del Hockey y el aire libre.
