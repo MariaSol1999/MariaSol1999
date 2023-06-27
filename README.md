@@ -1,16 +1,18 @@
-### Hi there 👋
+# Bienvenido 👋
 
-<!--
-**MariaSol1999/MariaSol1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunidades laborales como Junior Full-Stack Developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente finalicé mis estudios en el bootcamp de #SOYHENRY 💛
+- 🌱 Actualmente estoy aprendiendo TypeScript y React Native.
+- ✍️ Soy responsable, dedicada, sociable, con pensamiento analitico, de aprendizaje continuo y tenaz. Disfruto del trabajo en equipo y tengo habilidades de liderazgo, toma de decisiones y comunicación asertiva. Cuento con una buena gestión del tiempo y siempre con ganas de superarme día a día.
+- 💬 Cuento con un nivel B2 de inglés certificado por la Universidad de Cambridge.
+- 😄 Adjunto mi cv **(file:///C:/Users/Usuario/Downloads/CV%20Sol-1.pdf)**
+- 📫 Cómo contactarme? A través de mariasolcomba@gmail.com, suelo contestar en la mayor brevedad posible.
+- LinkedIn: [Maria Sol Comba Maiztegui](https://www.linkedin.com/in/maria-sol-comba-maiztegui-a55760261/)
+- ⚡ Dato curioso: Disfruto mucho del Hockey y el aire libre.
 -->
+
+🛠 💻  Habilidades técnicas:
+
+JavaScript  React  Node.js  HTML  CSS  Git  GitHub  Visual Studio Code HTML Tailwind Redux Redux Toolkit Express Sequelize PostgreSQL
