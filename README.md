@@ -13,18 +13,17 @@ Mi nombre es Maria Sol de Argentina y me encuentro a disposición para oportunid
 -->
 
 🛠 💻  Habilidades técnicas:
-- JavaScript
-- React
-- Node.js
-- HTML
-- CSS
-- Git
-- GitHub
-- Visual Studio Code
-- HTML
-- Tailwind
-- Redux
-- Redux Toolkit
-- Express
-- Sequelize
-- PostgreSQL
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![GitHub](https://img.icons8.com/ios-filled/48/000000/github.png) GitHub
+- ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code
+- ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS
+- ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux
+- ![Redux Toolkit](https://img.icons8.com/color/48/000000/redux-toolkit.png) Redux Toolkit
+- ![Express](https://img.icons8.com/color/48/000000/express.png) Express
+- ![Sequelize](https://img.icons8.com/color/48/000000/postgreesql.png) Sequelize
+- ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL
